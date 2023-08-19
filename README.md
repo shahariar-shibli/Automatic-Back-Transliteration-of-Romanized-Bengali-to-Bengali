@@ -32,6 +32,10 @@ There are two folders: Dataset and Codes
 	- "gpt.py" contains the code for prompting gpt-3
 	- "google_translate_selenium.py" contains the code for translating Banglish sentences to Bangla using selenium.
 	- "perplexity.py" contains the code for measuring text quality.
+	- To use pyavrophonetic, please refer to https://github.com/auvipy/pyAvroPhonetic
+	- To use bntranslit, please refer to https://github.com/sagorbrur/bntranslit
+	- To use indic transliteration, please refer to https://github.com/indic-transliteration/indic_transliteration_py
+	- To use google transliteration IME, please refer to https://www.google.com/inputtools/try/
 
 # Paper
 
