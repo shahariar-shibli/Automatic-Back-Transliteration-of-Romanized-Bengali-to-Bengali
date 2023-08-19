@@ -12,3 +12,9 @@
  BLEU-1 score of 81.28, BLEU-2 score of 60.75, BLEU-3 score of 44.45, BLEU-4 score of 30.46, and the lowest average word error 
  rate and Word Information Lost of 29.21 and 43.68 respectively on 1000 Romanized Bengali texts. In terms of recall, we 
  achieved a Rouge-L score of 0.7190.
+
+# Repository Structure
+
+There are two folders: Dataset and Codes
++ Dataset: The folder has two excel files. 
++ Codes: Some of the relevant codes.
