@@ -17,7 +17,11 @@
 
 There are two folders: Dataset and Codes
 + Dataset: The folder has two excel files. 
+	- "1K data Reported in Paper.xlsx" contains 1000 data for reporting the results in the paper.
+	- "5K human annotated Banglish to Bangla.xlsx" contains 5000 Banglish sentences along with corresponding human annotated Bengali
 + Codes: Some of the relevant codes.
+	- "bnbphoneticparser.py" contains the code for Banglish to Bangla phonetic parser.
+	- 
 
 # Paper
 
