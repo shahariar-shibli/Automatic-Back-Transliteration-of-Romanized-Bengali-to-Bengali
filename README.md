@@ -12,7 +12,7 @@
  (2) acquiring human transliteration for performance comparison; <br/> 
  (3) employing transliteration tools; <br/> 
  (4) generating candidate transliterations; <br/> 
- (5) post-processing the candidate transliterations;<br/>  
+ (5) post-processing the candidate transliterations; <br/>
  (6) selecting best candidate transliteration, and <br/> 
  (7) evaluating the quality of the transliterations through several performance metrics. 
  
