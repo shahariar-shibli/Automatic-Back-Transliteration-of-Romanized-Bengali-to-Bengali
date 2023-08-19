@@ -26,13 +26,13 @@ Accepted version is available at - https://shahariar-shibli.github.io/files/IRAN
 Published version is available at - https://link.springer.com/article/10.1007/s42044-022-00122-9
 
 # Citation
-<pre>
-	@article{shibli2022automatic,
-	  title={Automatic back transliteration of Romanized Bengali (Banglish) to Bengali},
-	  author={Shibli, GM Shahariar and Shawon, Md Tanvir Rouf and Nibir, Anik Hassan and Miandad, Md Zabed and Mandal, Nibir Chandra},
-	  journal={Iran Journal of Computer Science},
-	  pages={1--12},
-	  year={2022},
-	  publisher={Springer}
-	}
-</pre>
+```yaml
+@article{shibli2022automatic,
+  title={Automatic back transliteration of Romanized Bengali (Banglish) to Bengali},
+  author={Shibli, GM Shahariar and Shawon, Md Tanvir Rouf and Nibir, Anik Hassan and Miandad, Md Zabed and Mandal, Nibir Chandra},
+  journal={Iran Journal of Computer Science},
+  pages={1--12},
+  year={2022},
+  publisher={Springer}
+}
+```
