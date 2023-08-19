@@ -1,4 +1,4 @@
-# Automatic Back Transliteration of Romanized Bengali to Bengali
+# Automatic Back Transliteration of Romanized Bengali to Bengali (Banglish to Bangla)
  
  Back transliteration of Romanized Bengali to Bengali is the process of converting text written in the Latin alphabet 
  back into the Bengali script. This is often done in order to improve the readability of Bengali text for Bengali speakers 
