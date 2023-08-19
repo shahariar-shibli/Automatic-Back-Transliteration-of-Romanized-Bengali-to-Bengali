@@ -7,15 +7,13 @@
  pipeline that uses nine open source back transliteration tools to automatically back transliterate Romanized Bengali to 
  Bengali. 
  
- The pipeline consists of seven steps: 
- (1) processing the Romanized Bengali input; 
- (2) acquiring human transliteration 
- for performance comparison; 
- (3) employing transliteration tools; 
- (4) generating candidate transliterations; 
- (5) post-processing 
- the candidate transliterations; 
- (6) selecting best candidate transliteration, and 
+ The pipeline consists of seven steps:<br/>
+ (1) processing the Romanized Bengali input; <br/> 
+ (2) acquiring human transliteration for performance comparison; <br/> 
+ (3) employing transliteration tools; <br/> 
+ (4) generating candidate transliterations; <br/> 
+ (5) post-processing the candidate transliterations;<br/>  
+ (6) selecting best candidate transliteration, and <br/> 
  (7) evaluating the quality of the transliterations through several performance metrics. 
  
  Experimental results reveal that our approach produced the highest 
@@ -31,7 +29,9 @@ There are two folders: Dataset and Codes
 	- "5K human annotated Banglish to Bangla.xlsx" contains 5000 Banglish sentences along with corresponding human annotated Bengali
 + Codes: Some of the relevant codes.
 	- "bnbphoneticparser.py" contains the code for Banglish to Bangla phonetic parser.
-	- 
+	- "gpt.py" contains the code for prompting gpt-3
+	- "google_translate_selenium.py" contains the code for translating Banglish sentences to Bangla using selenium.
+	- "perplexity.py" contains the code for measuring text quality.
 
 # Paper
 
