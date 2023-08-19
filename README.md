@@ -39,8 +39,7 @@ There are two folders: Dataset and Codes
 
 # Paper
 
-Accepted version is available at - https://shahariar-shibli.github.io/files/IRAN2022/Banglish_to_Bangla.pdf
-
+Accepted version is available at - https://shahariar-shibli.github.io/files/IRAN2022/Banglish_to_Bangla.pdf <br/>
 Published version is available at - https://link.springer.com/article/10.1007/s42044-022-00122-9
 
 # Citation
